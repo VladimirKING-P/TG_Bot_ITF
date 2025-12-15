@@ -14,10 +14,7 @@
         "подготовительное",
         "4 направления",
         "базовое"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/0066CC/FFFFFF?text=Саджу-Чариги",
-      "diagram_image_url": "https://via.placeholder.com/400x300/0066CC/FFFFFF?text=Диаграмма+Саджу-Чариги",
-      "video_url": ""
+      ]
     },
     "Саджу-Макки": {
       "name": "Саджу-Макки",
@@ -33,10 +30,7 @@
         "блок",
         "защита",
         "4 направления"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/0066CC/FFFFFF?text=Саджу-Макки",
-      "diagram_image_url": "https://via.placeholder.com/400x300/0066CC/FFFFFF?text=Диаграмма+Саджу-Макки",
-      "video_url": ""
+      ]
     },
     "Чон-Джи": {
       "name": "Чон-Джи",
@@ -52,10 +46,7 @@
         "небо земля",
         "19 движений",
         "основа"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/FFD700/000000?text=Чон-Джи",
-      "diagram_image_url": "https://via.placeholder.com/400x300/FFD700/000000?text=Диаграмма+Чон-Джи",
-      "video_url": "https://www.youtube.com/watch?v=example1"
+      ]
     },
     "Дан-Гун": {
       "name": "Дан-Гун",
@@ -71,10 +62,7 @@
         "2333 до н.э.",
         "21 движение",
         "желтый пояс"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/FFD700/000000?text=Дан-Гун",
-      "diagram_image_url": "https://via.placeholder.com/400x300/FFD700/000000?text=Диаграмма+Дан-Гун",
-      "video_url": "https://www.youtube.com/watch?v=example2"
+      ]
     },
     "До-Сан": {
       "name": "До-Сан",
@@ -90,10 +78,7 @@
         "патриот",
         "24 движения",
         "просвещение"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/90EE90/000000?text=До-Сан",
-      "diagram_image_url": "https://via.placeholder.com/400x300/90EE90/000000?text=Диаграмма+До-Сан",
-      "video_url": "https://www.youtube.com/watch?v=example3"
+      ]
     },
     "Вон-Хьё": {
       "name": "Вон-Хьё",
@@ -109,10 +94,7 @@
         "буддизм",
         "28 движений",
         "династия силла"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/008000/FFFFFF?text=Вон-Хьё",
-      "diagram_image_url": "https://via.placeholder.com/400x300/008000/FFFFFF?text=Диаграмма+Вон-Хьё",
-      "video_url": "https://www.youtube.com/watch?v=example4"
+      ]
     },
     "Юль-Гок": {
       "name": "Юль-Гок",
@@ -128,10 +110,7 @@
         "философ",
         "38 движений",
         "конфуцианец"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/0000FF/FFFFFF?text=Юль-Гок",
-      "diagram_image_url": "https://via.placeholder.com/400x300/0000FF/FFFFFF?text=Диаграмма+Юль-Гок",
-      "video_url": "https://www.youtube.com/watch?v=example5"
+      ]
     },
     "Джун-Гун": {
       "name": "Джун-Гун",
@@ -147,10 +126,7 @@
         "патриот",
         "32 движения",
         "казнь"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/0000FF/FFFFFF?text=Джун-Гун",
-      "diagram_image_url": "https://via.placeholder.com/400x300/0000FF/FFFFFF?text=Диаграмма+Джун-Гун",
-      "video_url": "https://www.youtube.com/watch?v=example6"
+      ]
     },
     "Тэё-Гэ": {
       "name": "Тэё-Гэ",
@@ -166,10 +142,7 @@
         "ученый",
         "37 движений",
         "неоконфуцианство"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/FF0000/FFFFFF?text=Тэё-Гэ",
-      "diagram_image_url": "https://via.placeholder.com/400x300/FF0000/FFFFFF?text=Диаграмма+Тэё-Гэ",
-      "video_url": "https://www.youtube.com/watch?v=example7"
+      ]
     },
     "Хва-Ранг": {
       "name": "Хва-Ранг",
@@ -185,10 +158,7 @@
         "29 движений",
         "объединение",
         "диаграмма цветка"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/FF0000/FFFFFF?text=Хва-Ранг",
-      "diagram_image_url": "https://via.placeholder.com/400x300/FF0000/FFFFFF?text=Диаграмма+Хва-Ранг",
-      "video_url": "https://www.youtube.com/watch?v=example8"
+      ]
     },
     "Чунг-Му": {
       "name": "Чунг-Му",
@@ -204,10 +174,7 @@
         "адмирал",
         "30 движений",
         "кобуксон"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Чунг-Му",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Чунг-Му",
-      "video_url": "https://www.youtube.com/watch?v=example9"
+      ]
     },
     "Кван-Ге": {
       "name": "Кван-Ге",
@@ -223,10 +190,7 @@
         "39 движений",
         "расширение",
         "король когурё"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Кван-Ге",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Кван-Ге",
-      "video_url": "https://www.youtube.com/watch?v=example10"
+      ]
     },
     "По-Ун": {
       "name": "По-Ун",
@@ -242,10 +206,7 @@
         "поэт",
         "36 движений",
         "верность"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=По-Ун",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+По-Ун",
-      "video_url": "https://www.youtube.com/watch?v=example11"
+      ]
     },
     "Ге-Бек": {
       "name": "Ге-Бек",
@@ -261,10 +222,7 @@
         "генерал",
         "44 движения",
         "дисциплина"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Ге-Бек",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Ге-Бек",
-      "video_url": "https://www.youtube.com/watch?v=example12"
+      ]
     },
     "Ый-Ам": {
       "name": "Ый-Ам",
@@ -280,10 +238,7 @@
         "45 движений",
         "независимость",
         "движение 1 марта"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Ый-Ам",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Ый-Ам",
-      "video_url": "https://www.youtube.com/watch?v=example13"
+      ]
     },
     "Джу-Джанг": {
       "name": "Джу-Джанг",
@@ -299,10 +254,7 @@
         "52 движения",
         "генерал",
         "трагедия"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Джу-Джанг",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Джу-Джанг",
-      "video_url": "https://www.youtube.com/watch?v=example14"
+      ]
     },
     "Джу-Че": {
       "name": "Джу-Че",
@@ -318,10 +270,7 @@
         "45 движений",
         "пэктусан",
         "философия"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Джу-Че",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Джу-Че",
-      "video_url": "https://www.youtube.com/watch?v=example15"
+      ]
     },
     "Сам-Ил": {
       "name": "Сам-Ил",
@@ -337,10 +286,7 @@
         "33 движения",
         "независимость",
         "1919"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Сам-Ил",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Сам-Ил",
-      "video_url": "https://www.youtube.com/watch?v=example16"
+      ]
     },
     "Ю-Син": {
       "name": "Ю-Син",
@@ -356,10 +302,7 @@
         "68 движений",
         "объединение",
         "генерал"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Ю-Син",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Ю-Син",
-      "video_url": "https://www.youtube.com/watch?v=example17"
+      ]
     },
     "Чой-Ёнг": {
       "name": "Чой-Ёнг",
@@ -375,10 +318,7 @@
         "46 движений",
         "верность",
         "трагедия"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Чой-Ёнг",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Чой-Ёнг",
-      "video_url": "https://www.youtube.com/watch?v=example18"
+      ]
     },
     "Йог-Ге": {
       "name": "Йог-Ге",
@@ -394,10 +334,7 @@
         "49 движений",
         "победа",
         "династия тан"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Йог-Ге",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Йог-Ге",
-      "video_url": "https://www.youtube.com/watch?v=example19"
+      ]
     },
     "Уль-Чжи": {
       "name": "Уль-Чжи",
@@ -413,10 +350,7 @@
         "42 движения",
         "стратегия",
         "оборона"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Уль-Чжи",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Уль-Чжи",
-      "video_url": "https://www.youtube.com/watch?v=example20"
+      ]
     },
     "Мун-Му": {
       "name": "Мун-Му",
@@ -432,10 +366,7 @@
         "61 движение",
         "защитник",
         "море"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Мун-Му",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Мун-Му",
-      "video_url": "https://www.youtube.com/watch?v=example21"
+      ]
     },
     "Со-Сан": {
       "name": "Со-Сан",
@@ -451,10 +382,7 @@
         "72 движения",
         "воины-монахи",
         "защита"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Со-Сан",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Со-Сан",
-      "video_url": "https://www.youtube.com/watch?v=example22"
+      ]
     },
     "Се-Чжонг": {
       "name": "Се-Чжонг",
@@ -470,10 +398,7 @@
         "24 движения",
         "хангыль",
         "алфавит"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Се-Чжонг",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Се-Чжонг",
-      "video_url": "https://www.youtube.com/watch?v=example23"
+      ]
     },
     "Тонг-Ил": {
       "name": "Тонг-Ил",
@@ -489,10 +414,7 @@
         "56 движений",
         "единая корея",
         "воссоединение"
-      ],
-      "image_url": "https://via.placeholder.com/400x400/000000/FFFFFF?text=Тонг-Ил",
-      "diagram_image_url": "https://via.placeholder.com/400x300/000000/FFFFFF?text=Диаграмма+Тонг-Ил",
-      "video_url": "https://www.youtube.com/watch?v=example24"
+      ]
     }
   },
   "belts": {
@@ -505,8 +427,7 @@
         "Саджу-Макки"
       ],
       "duration": "1-2 месяца",
-      "requirements": "Базовые стойки, удары, блоки, этикет",
-      "image_url": "https://i.imgur.com/belt_white.jpg"
+      "requirements": "Базовые стойки, удары, блоки, этикет"
     },
     "9_gup": {
       "name": "9 гып",
@@ -516,36 +437,198 @@
         "Чон-Джи"
       ],
       "duration": "2-3 месяца",
-      "requirements": "Основные техники, первый туль",
-      "image_url": "https://i.imgur.com/belt_white_yellow.jpg"
+      "requirements": "Основные техники, первый туль"
+    },
+    "8_gup": {
+      "name": "8 гып",
+      "color": "Желтый пояс",
+      "description": "Желтый - цвет земли, где укореняются знания",
+      "tuls": [
+        "Дан-Гун"
+      ],
+      "duration": "3-4 месяца",
+      "requirements": "Улучшение техники, спарринг"
+    },
+    "7_gup": {
+      "name": "7 гып",
+      "color": "Желтый с зеленой полоской",
+      "description": "Переходный этап, подготовка к зеленому поясу",
+      "tuls": [
+        "До-Сан"
+      ],
+      "duration": "3-4 месяца",
+      "requirements": "Комбинации, усложнение техник"
+    },
+    "6_gup": {
+      "name": "6 гып",
+      "color": "Зеленый пояс",
+      "description": "Зеленый - цвет роста и развития",
+      "tuls": [
+        "Вон-Хьё"
+      ],
+      "duration": "4-6 месяцев",
+      "requirements": "Скорость, точность, сложные комбинации"
+    },
+    "5_gup": {
+      "name": "5 гып",
+      "color": "Зеленый с синей полоской",
+      "description": "Приближение к синему поясу, развитие мастерства",
+      "tuls": [
+        "Юль-Гок"
+      ],
+      "duration": "4-6 месяцев",
+      "requirements": "Сила, выносливость, тактика"
+    },
+    "4_gup": {
+      "name": "4 гып",
+      "color": "Синий пояс",
+      "description": "Синий - цвет неба, к которому стремится ученик",
+      "tuls": [
+        "Джун-Гун"
+      ],
+      "duration": "6-8 месяцев",
+      "requirements": "Сложные техники, тактические навыки"
+    },
+    "3_gup": {
+      "name": "3 гып",
+      "color": "Синий с красной полоской",
+      "description": "Переход к красному поясу, совершенствование",
+      "tuls": [
+        "Тэё-Гэ"
+      ],
+      "duration": "6-8 месяцев",
+      "requirements": "Мастерство, контроль, преподавание основ"
+    },
+    "2_gup": {
+      "name": "2 гып",
+      "color": "Красный пояс",
+      "description": "Красный - цвет опасности, предупреждение о силе",
+      "tuls": [
+        "Хва-Ранг"
+      ],
+      "duration": "8-12 месяцев",
+      "requirements": "Высокое мастерство, преподавание"
+    },
+    "1_gup": {
+      "name": "1 гып",
+      "color": "Красный с черной полоской",
+      "description": "Последний ученический пояс, переход к мастерству",
+      "tuls": [
+        "Чунг-Му"
+      ],
+      "duration": "8-12 месяцев",
+      "requirements": "Полное владение техникой, подготовка к черному поясу"
+    },
+    "1_dan": {
+      "name": "1 дан",
+      "color": "Черный пояс",
+      "description": "Помощник инструктора (Boo-sabum)",
+      "tuls": [
+        "Кван-Ге",
+        "По-Ун",
+        "Ге-Бек"
+      ],
+      "duration": "1-2 года",
+      "requirements": "Преподавание, руководство, постоянное совершенствование"
+    },
+    "2_dan": {
+      "name": "2 дан",
+      "color": "Черный пояс",
+      "description": "Инструктор (Sabum)",
+      "tuls": [
+        "Ый-Ам",
+        "Джу-Джанг",
+        "Джу-Че"
+      ],
+      "duration": "2 года",
+      "requirements": "Углубленное преподавание, судейство"
+    },
+    "3_dan": {
+      "name": "3 дан",
+      "color": "Черный пояс",
+      "description": "Инструктор (Sabum)",
+      "tuls": [
+        "Сам-Ил",
+        "Ю-Син",
+        "Чой-Ёнг"
+      ],
+      "duration": "3 года",
+      "requirements": "Высокое мастерство, подготовка инструкторов"
+    },
+    "4_dan": {
+      "name": "4 дан",
+      "color": "Черный пояс",
+      "description": "Мастер (Sahyun)",
+      "tuls": [
+        "Йог-Ге",
+        "Уль-Чжи",
+        "Мун-Му"
+      ],
+      "duration": "4 года",
+      "requirements": "Высшее мастерство, развитие тхэквондо"
+    },
+    "5_dan": {
+      "name": "5 дан",
+      "color": "Черный пояс",
+      "description": "Мастер (Sahyun)",
+      "tuls": [
+        "Со-Сан",
+        "Се-Чжонг"
+      ],
+      "duration": "5 лет",
+      "requirements": "Вклад в развитие, международное признание"
+    },
+    "6_dan": {
+      "name": "6 дан",
+      "color": "Черный пояс",
+      "description": "Великий мастер (Saseong)",
+      "tuls": [
+        "Тонг-Ил"
+      ],
+      "duration": "6 лет",
+      "requirements": "Выдающийся вклад, наследие"
     }
   },
   "techniques": {
-    "stances": {
-      "Нарни соги": {
-        "description": "Параллельная стойка, ноги на ширине плеч",
-        "image_url": "https://i.imgur.com/stance_narani.jpg"
-      },
-      "Гуннун соги": {
-        "description": "Задняя стойка, 70% веса на задней ноге",
-        "image_url": "https://i.imgur.com/stance_gunnun.jpg"
-      }
+    "Стойки в тхэквондо": {
+      "Нарани соги": "Параллельная стойка, ноги на ширине плеч",
+      "Чарёт соги": "Стойка «смирно».",
+      "Гуннун соги": "Задняя стойка, 70% веса на задней ноге",
+      "Аннун соги": "Cтойка в тхэквондо ИТФ, также называется стойкой «всадника». Название связано с тем, что поза напоминает форму ног человека во время езды на лошади.",
+      "Ап соги": "Передняя высокая стойка, в которой одна нога выставлена вперёд, как при обычной ходьбе, а обе ноги выпрямлены.",
+      "Двиткуби соги": "L-образная стойка, одна нога согнута, другая прямая"
     },
-    "kicks": {
-      "Ап чаги": {
-        "description": "Прямой удар ногой вперед",
-        "image_url": "https://i.imgur.com/kick_ap_chagi.jpg"
-      },
-      "Йоп чаги": {
-        "description": "Боковой удар ногой",
-        "image_url": "https://i.imgur.com/kick_yop_chagi.jpg"
-      }
+    "Удары ногами": {
+      "Ап чаги": "Прямой удар ногой вперед",
+      "Йоп чаги": "Боковой удар ногой",
+      "Твит чаги": "Круговой удар ногой",
+      "Дольё чаги": "Удар ногой с разворота",
+      "Бандаль чаги": "Полукруговой удар ногой"
+    },
+    "Удары рукой": {
+      "Чумок": "Прямой удар кулаком",
+      "Чируги": "Удар кончиками пальцев",
+      "Йоп чируги": "Боковой удар рукой",
+      "Пьён чумок": "Удар кулаком сбоку"
+    },
+    "Блоки руками": {
+      "Аре макки": "Нижний блок",
+      "Ольгуль макки": "Верхний блок",
+      "Хэчжо макки": "Двойной блок",
+      "Момтом макки": "Блок туловища"
+    },
+    "Дисциплины на соревнованиях": {
+      "Туль": "Комплекс из основных атакующих и защитных движений, которые выполняются в логически обоснованной последовательности. Занимающийся имитирует поединок с несколькими соперниками, выполняя различные атакующие и защитные действия, соответствующие «складывающейся обстановке».",
+      "Массоги": "Спарринг, поединок, возможность применить на практике умения и навыки, приобретённые при изучении базовой техники. Часть соревнований по тхэквондо ИТФ. На крупных чемпионатах программа соревнований включает индивидуальное и командное первенство, в обычном формате — только индивидуальное первенство.",
+      "Силовое разбивание (power breaking)": "Спортсмены разбивают доски стандартного размера (30×30×1,5 см), которые расположены на специальном станке. Задача — разбить как можно больше досок за 1 удар. После успешной попытки количество досок увеличивается.",
+      "Самооборона": "защитить себя в случае нападения или опасной ситуации, противостоять одному или множеству противников одновременно, в том числе вооружённым.",
+      "Специальная техника": "Специальная техника - это особенная техника, в которой необходимо выполнять в прыжке удары различной сложности на определённой высоте или в длину и высоту."
     }
   },
   "statistics": {
     "total_tuls": 26,
     "total_movements": 978,
-    "belt_levels": 2,
-    "technique_categories": 2
+    "belt_levels": 16,
+    "technique_categories": 5
   }
 }
